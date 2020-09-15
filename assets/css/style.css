@@ -1,6 +1,7 @@
 .navbar-light .navbar-brand {
     background: teal;
     color: white;
+    margin-left: 50px;
     }
 
     .teal {
@@ -14,6 +15,10 @@
         background-size: cover;
     }
 
-    p{
+    .container{
+        background-color: whitesmoke;
         float: left;
+        margin-left: 50px;
+        margin-top: 50px;
     }
+
