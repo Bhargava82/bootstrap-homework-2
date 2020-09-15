@@ -2,3 +2,18 @@
     background: teal;
     color: white;
     }
+
+    .teal {
+        font: teal;
+    }
+    
+
+    body{
+        background-image: url(https://www.shutterstock.com/image-photo/old-newspaper-background-beige-grunge-paper-1612189516);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    p{
+        float: left;
+    }
