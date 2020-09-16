@@ -7,6 +7,7 @@ This is site about myself, introducing myself and my portfolio. It also has a li
   	- Semantic HTML Elements
 	- ALT attributes on all the images
 	- JavaScript to make the site dynamic
+	- Bootstrap
 	
 
 **Installation**
