@@ -4,9 +4,9 @@ Description
 
 This is site about myself, introducing myself and my portfolio. It also has a link to contact me. I have used the following to create my site:
 
-  	* Semantic HTML Elements
-	* ALT attributes on all the images
-	* JavaScript to make the site dynamic
+  	- Semantic HTML Elements
+	- ALT attributes on all the images
+	- JavaScript to make the site dynamic
 	
 
 Installation
