@@ -1,6 +1,6 @@
 # bootstrap-homework-2
 
-Description
+**Description**
 
 This is site about myself, introducing myself and my portfolio. It also has a link to contact me. I have used the following to create my site:
 
@@ -9,12 +9,12 @@ This is site about myself, introducing myself and my portfolio. It also has a li
 	- JavaScript to make the site dynamic
 	
 
-Installation
+**Installation**
 
 The site can be viewed and implement changes by CLONING THE REPOSITORY and opening the index.html.
 
 
-Usage
+**Usage**
 
 To access the site locally, clone the repository and open index.html with your preferred browser.
-To see the site live, click me.
+To see the site live, [click me](https://github.com/Bhargava82/bootstrap-homework-2/).
