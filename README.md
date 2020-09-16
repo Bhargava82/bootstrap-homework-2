@@ -17,4 +17,4 @@ The site can be viewed and implement changes by CLONING THE REPOSITORY and openi
 **Usage**
 
 To access the site locally, clone the repository and open index.html with your preferred browser.
-To see the site live, [click me](https://github.com/Bhargava82/bootstrap-homework-2/).
+
