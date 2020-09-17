@@ -20,3 +20,6 @@ The site can be viewed and implement changes by CLONING THE REPOSITORY and openi
 To access the site locally, clone the repository and open index.html with your preferred browser.
 
 ![alt text](https://github.com/Bhargava82/bootstrap-homework-2/blob/master/Screen%20Shot%202020-09-16%20at%208.18.20%20PM.png)
+![alt text](https://github.com/Bhargava82/bootstrap-homework-2/blob/master/Screen%20Shot%202020-09-16%20at%208.20.13%20PM.png)
+![alt text](https://github.com/Bhargava82/bootstrap-homework-2/blob/master/Screen%20Shot%202020-09-16%20at%208.20.18%20PM.png)
+![alt text](https://github.com/Bhargava82/bootstrap-homework-2/blob/master/Screen%20Shot%202020-09-16%20at%208.20.24%20PM.png)
