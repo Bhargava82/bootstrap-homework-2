@@ -18,4 +18,4 @@ The site can be viewed and implement changes by CLONING THE REPOSITORY and openi
 **Usage**
 
 To access the site locally, clone the repository and open index.html with your preferred browser.
-
+To access the site LIVE, CLICK HERE.
